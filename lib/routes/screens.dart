@@ -10,8 +10,8 @@ export 'package:finca_urbana_app/pages/global_screen.dart';
 export 'package:finca_urbana_app/pages/monitor_screen.dart';
 export 'package:finca_urbana_app/pages/phone_screen.dart';
 export 'package:finca_urbana_app/pages/upc_screen.dart';
-
 export 'package:finca_urbana_app/pages/list_page.dart';
-
 export 'package:finca_urbana_app/pages/home_screen.dart';
-
+export 'package:finca_urbana_app/pages/general_screen.dart';
+export 'package:finca_urbana_app/pages/users_screen.dart';
+export 'package:finca_urbana_app/widgets/form_screen.dart';
